@@ -2,8 +2,6 @@
 
 ## :star: Now I am 
 
-<img src='https://user-images.githubusercontent.com/6457691/92294368-909afb00-ef66-11ea-8686-b902a90b2718.jpg' width = 350>
-
 - I enjoy my weekdays with [CodeStates](https://github.com/codestates) DS Cell & Every crews from other Cell. 
 
 - I design course material and lecture of [Data Science Course](https://codestates.com/course/data-science) (and teach these too !)
