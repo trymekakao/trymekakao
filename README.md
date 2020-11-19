@@ -11,6 +11,13 @@
 
 - I love to write, draw, and make unexpected things !.
 
+## :star: My github status
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=trymekakao&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trymekakao&hide=css,java,html&theme=tokyonight">
+</p>
+
+
 ## :mortar_board: Education 
 - ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070)
 
