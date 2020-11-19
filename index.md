@@ -2,7 +2,28 @@
 
 카카오 본사 갈거에요
 
-### 마크다운
+### 깃허브 요약
+이 깃허브 리포지토리의 요약
+
+#### project
+```markdown
+- 개인프로젝트
+```
+
+#### math
+```markdown
+- 수학공부
+```
+
+#### algorithm
+```markdown
+- 알고리즘
+```
+
+#### etc
+```markdown
+- 기타
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
