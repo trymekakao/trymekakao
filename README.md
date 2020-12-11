@@ -18,7 +18,7 @@
 
 
 ## :mortar_board: Education 
-- ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070)
+- ![](https://img.shields.io/badge/HIGH-CWH_2007~2009-%23a90070)
 
 - ![](https://img.shields.io/badge/BACHELOR-UNIST_2010~2014-%2344c1c4) 
   - **Biomedical Sci. & Comp Sci.**
