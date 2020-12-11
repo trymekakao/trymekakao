@@ -3,9 +3,9 @@
 
 ## :star: Now I am 
 
-- I enjoy my weekdays with [CodeStates](https://github.com/codestates) DS Cell & Every crews from other Cell. 
+- I enjoy my weekdays with [Coursera](https://www.coursera.org/specializations/natural-language-processing) NLP courses. 
 
-- I design course material and lecture of [Data Science Course](https://codestates.com/course/data-science) (and teach these too !)
+- I'm working on a psychotherapy program using [Relation Frame Theory](https://en.wikipedia.org/wiki/Relational_frame_theory)
 
 - Also I am enjoying to share my own insights from many & various data built from codestates that I found. 
 
