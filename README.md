@@ -12,7 +12,7 @@
 - I love to write, draw, and make unexpected things !.
 
 ## :star: My github status
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trymekakao)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhidhamma)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## :mortar_board: Education 
