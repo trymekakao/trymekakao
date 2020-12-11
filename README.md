@@ -12,7 +12,7 @@
 - I love to write, draw, and make unexpected things !.
 
 ## :star: My language status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trymekakao&layout=compact)](https://github.com/trymekakao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidhamma&layout=compact)](https://github.com/trymekakao/github-readme-stats)
 
 ## :star: My current wokring status
 [![trymekakao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trymekakao)](https://github.com/trymekakao/github-readme-stats)
