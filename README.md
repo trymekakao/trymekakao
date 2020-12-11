@@ -12,7 +12,7 @@
 - I love to write, draw, and make unexpected things !.
 
 ## :star: My wakatime status
-[![trymekakako's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trymekakako)](https://github.com/trymekakako/github-readme-stats)
+[![trymekakao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trymekakao)](https://github.com/trymekakao/github-readme-stats)
 
 
 ## :mortar_board: Education 
