@@ -23,7 +23,7 @@
 - ![](https://img.shields.io/badge/BACHELOR-HEJ_2010~2014-%2344c1c4) 
   - **Comp Sci.**
   
-- ![](https://img.shields.io/badge/BACHELOR-HEJ_2014~2020-%2344c1c4)  
+- ![](https://img.shields.io/badge/BACHELOR-HEJ_2014~2018-%2344c1c4)  
   - **Psychology**
 
 ## :keyboard: Programming Skill
