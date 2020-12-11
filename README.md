@@ -44,7 +44,6 @@
 - [Shiny Server Administrators Guide](https://jhk0530.gitbook.io/shinyserverguide/) (**Translation**, **In Process**)
 
 ## :star: Group
-[<img src='https://user-images.githubusercontent.com/6457691/87225511-82968700-c3c8-11ea-856a-95e0b36d08cc.png' width = '100'>](https://github.com/unistbig/)
 [<img src='https://user-images.githubusercontent.com/6457691/87225514-8de9b280-c3c8-11ea-83a8-9365a78f8311.png' width = '100'>](https://github.com/shinykorea/)
 [<img src='https://user-images.githubusercontent.com/6457691/87225503-790d1f00-c3c8-11ea-8d6a-0b624c0fa559.png' width ='100'>](https://github.com/pg-vscode-extn-kr)
 
