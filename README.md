@@ -11,8 +11,8 @@
 
 - I love to write, draw, and make unexpected things !.
 
-## :star: My github status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trymekakao&layout=compact)](https://github.com/trymekakao/github-readme-stats)
+## :star: My wakatime status
+[![trymekakako's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trymekakako)](https://github.com/trymekakako/github-readme-stats)
 
 
 ## :mortar_board: Education 
