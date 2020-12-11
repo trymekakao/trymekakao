@@ -21,15 +21,15 @@
 - ![](https://img.shields.io/badge/HIGH-CWH_2007~2009-%23a90070)
 
 - ![](https://img.shields.io/badge/BACHELOR-HEJ_2010~2014-%2344c1c4) 
-  - **Biomedical Sci. & Comp Sci.**
+  - **Comp Sci.**
   
-- ![](https://img.shields.io/badge/PHD-UNIST_2014~2020-%2344c1c4) 
-  - **Bioinformatics** 
-  - **Dissertation title : Computational pathway and network analysis of gene expression data**
+- ![](https://img.shields.io/badge/BACHELOR-HEJ_2014~2020-%2344c1c4)  
+  - **Psychology**
 
 ## :keyboard: Programming Skill
-- ![](https://img.shields.io/badge/Expert-R-%231e65b7)
+- ![](https://img.shields.io/badge/Expert-C++-%231e65b7)
 - ![](https://img.shields.io/badge/Intermediate-PYTHON-%23ffd03f)
+- ![](https://img.shields.io/badge/Intermediate-JAVASCRIPT-%23ffd03f)
 
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
